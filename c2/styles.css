@@ -1,0 +1,11 @@
+ul {
+    color: green;
+    font-style: italic;
+}
+li {
+    white-space: nowrap;
+    font-size: 30px;
+}
+body {
+    background-color: red;
+}
